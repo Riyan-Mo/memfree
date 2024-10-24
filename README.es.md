@@ -8,11 +8,11 @@
 
 <div align="center">
 
-**Inglés**\|[Chino](./README_ZH.md)\|[Alemán](./README_DE.md)\|[Francés](./README_FR.md)\|[Español](README_ES.md)\|[japonés](./README_JA.md)
+**Inglés**\|[Chino](./README.zh-CN.md)\|[Alemán](./README.de.md)\|[Francés](./README.fr.md)\|[Español](README.es.md)\|[japonés](./README.ja.md)
 
 </div>
 
-<h4 align="center">
+<h4 align="center">fdfdf
   <a href="https://twitter.com/ahaapple2023">
     <img src="https://img.shields.io/twitter/follow/llmreport?style=flat&label=%40ahaapple&logo=twitter&color=0bf&logoColor=fff" alt="Twitter" />
   </a>
@@ -45,7 +45,7 @@ Memfree utiliza el modelo de IA más potente: Claude 3.5 Sonnet y el marco de in
 
 [El escaparate de MemFree AI UI Generator](https://www.memfree.me/generate-ui).
 
-## ¿Qué hace que MemFree sea valioso?
+## What Makes MemFree Valuable?
 
 -   **Gestión eficiente del conocimiento**: MemFree elimina la necesidad de organización manual de notas, marcadores y documentos. Cuando necesite información, simplemente busque en MemFree para encontrar rápidamente respuestas relevantes, liberando su memoria y aumentando la productividad.
 -   **Resúmenes de IA que ahorran tiempo**: En lugar de hacer clic en varios resultados de búsqueda de Google, MemFree utiliza IA para resumir instantáneamente el mejor contenido de las páginas web y su base de conocimientos, lo que ahorra un tiempo valioso.
@@ -61,7 +61,7 @@ MemFree está equipado con potentes funciones que satisfacen diversas necesidade
 -   **Formato de entrada de búsqueda múltiple**: Texto, imágenes, archivos y páginas web. En particular, admite búsqueda, comparación, resumen y análisis de múltiples imágenes.
 -   **Múltiples métodos de presentación de resultados.**: Texto, mapas mentales, imágenes y vídeos.
 -   **Compatibilidad de formatos de archivos locales**: Admite archivos de texto, PDF, Docx, PPTX y Markdown.
--   **Sincronización entre dispositivos**: guarde y sincronice el historial de búsqueda en múltiples dispositivos.
+-   **Sincronización entre dispositivos**: guarde y sincronice el historial de búsqueda en varios dispositivos.
 -   **Soporte multilingüe**: Disponible en inglés, chino, alemán, francés, español, japonés y árabe.
 -   **Sincronización de marcadores de Chrome**: Sincronización e indexación con un solo clic.
 -   **Compartir resultados**: comparta fácilmente los resultados de su búsqueda.
@@ -72,13 +72,13 @@ MemFree está equipado con potentes funciones que satisfacen diversas necesidade
 
 -   **🖥️ Vista previa de la interfaz de usuario en tiempo real**: Representa y previsualiza instantáneamente la interfaz de usuario generada
 -   **🔍 Búsqueda de contenido impulsada por IA**: Enriquezca su interfaz de usuario con contenido relevante utilizando nuestra función de búsqueda avanzada de IA
--   **🖼 Generación de UI basada en imágenes**: cree componentes de interfaz de usuario y páginas que coincidan estrechamente con sus imágenes de referencia.
+-   **🖼 Generación de UI basada en imágenes** : Create UI components and pages that closely match your reference images
 -   **⚛️ Integración de interfaz de usuario de React + TailWind + Shadcn**: Aproveche el código generado por IA utilizando la pila de front-end más popular: React, TailWind y Shadcn UI
 -   **🚀 Publicación de UI con un clic**: Publique y comparta su interfaz de usuario en la web al instante con un solo clic
 -   **📱 Código responsivo y vista previa**: Obtenga una vista previa de su interfaz de usuario en varios dispositivos en tiempo real, lo que garantiza una adaptación perfecta a todos los tamaños de pantalla.
 -   **🌓 Código y vista previa del modo oscuro**: Genere sin esfuerzo código de interfaz de usuario impulsado por IA con soporte para modo oscuro incorporado, lo que le permite obtener una vista previa de los modos claro y oscuro al instante.
 -   **📸 Exportación de capturas de pantalla de la interfaz de usuario**: Exporte y comparta fácilmente sus diseños de interfaz de usuario como capturas de pantalla de alta calidad para una colaboración perfecta
--   **🛠️ Corrección de errores inteligente**: Si bien el modelo avanzado de IA de MemFree y las sofisticadas reglas de código se esfuerzan por alcanzar la perfección, pueden ocurrir errores ocasionales. Nuestra función de corrección inteligente de errores le permite solucionar instantáneamente cualquier problema con solo un clic
+-   **🛠️ Corrección de errores inteligente**: Si bien el modelo de IA avanzado de MemFree y las sofisticadas reglas de código se esfuerzan por alcanzar la perfección, pueden ocurrir errores ocasionales. Nuestra función de corrección inteligente de errores le permite solucionar instantáneamente cualquier problema con solo un clic
 
 ## Flujo de trabajo de búsqueda de IA híbrida de MemFree
 
@@ -123,11 +123,11 @@ MemFree está equipado con potentes funciones que satisfacen diversas necesidade
 
 #### Redis oculto
 
-Cree una base de datos compatible con Redis en segundos:[Upstash Redis](https://upstash.com/docs/redis/overall/getstarted)
+Cree una base de datos compatible con Redis en segundos:[Redis oculto](https://upstash.com/docs/redis/overall/getstarted)
 
 #### Clave API de OpenAI
 
-Obtenga una clave API de OpenAI:[Abierto AI](https://platform.openai.com)
+Obtenga una clave API de OpenAI:[AbiertoAI](https://platform.openai.com)
 
 #### Clave API de Serper
 
@@ -145,7 +145,7 @@ Obtenga una clave API de Serper:[Serpiente](https://serper.dev/api-key)
 
     bun run dev
 
-### Servicio de vectores
+### Servicio vectorial
 
     cd vector
 
