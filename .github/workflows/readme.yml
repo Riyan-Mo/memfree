@@ -8,7 +8,7 @@ on:
       - auto-translation
       - test-translate
     paths:
-      - "/README.md"
+      - "README.md"
 jobs:
   build:
     runs-on: ubuntu-latest
