@@ -6,6 +6,7 @@ on:
       - main
       - master
       - auto-translation
+      - test-translate
     paths:
       - "README.md"
 jobs:
