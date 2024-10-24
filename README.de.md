@@ -8,11 +8,11 @@
 
 <div align="center">
 
-**Englisch**\|[chinesisch](./README_ZH.md)\|[Deutsch](./README_DE.md)\|[Französisch](./README_FR.md)\|[Spanisch](README_ES.md)\|[japanisch](./README_JA.md)
+**Englisch**\|[chinesisch](./README.zh-CN.md)\|[Deutsch](./README.de.md)\|[Französisch](./README.fr.md)\|[Spanisch](README.es.md)\|[japanisch](./README.ja.md)
 
 </div>
 
-<h4 align="center">
+<h4 align="center">fdfdf
   <a href="https://twitter.com/ahaapple2023">
     <img src="https://img.shields.io/twitter/follow/llmreport?style=flat&label=%40ahaapple&logo=twitter&color=0bf&logoColor=fff" alt="Twitter" />
   </a>
@@ -33,7 +33,7 @@
 
 <br/>
 
-## Was ist MemFree
+## Was ist MemFree?
 
 MemFree ist ein<b>Hybride KI-Suchmaschine</b>.
 
@@ -48,7 +48,7 @@ Memfree nutzt das leistungsstärkste KI-Modell – Claude 3.5 Sonnet und das bel
 ## Was macht MemFree wertvoll?
 
 -   **Effizientes Wissensmanagement**: MemFree macht die manuelle Organisation von Notizen, Lesezeichen und Dokumenten überflüssig. Wenn Sie Informationen benötigen, suchen Sie einfach in MemFree, um schnell relevante Antworten zu finden, was Ihren Speicher frei macht und die Produktivität steigert.
--   **Zeitsparende KI-Zusammenfassungen**: Anstatt sich durch mehrere Google-Suchergebnisse zu klicken, nutzt MemFree KI, um sofort die besten Inhalte von Webseiten und Ihrer Wissensdatenbank zusammenzufassen und so wertvolle Zeit zu sparen.
+-   **Time-Saving AI Summaries**: Anstatt sich durch mehrere Google-Suchergebnisse zu klicken, nutzt MemFree KI, um sofort die besten Inhalte von Webseiten und Ihrer Wissensdatenbank zusammenzufassen und so wertvolle Zeit zu sparen.
 -   **Kostengünstige Lösung**: Vermeiden Sie mehrere Abonnements für Dienste wie ChatGPT Plus, Claude Pro und Gemini Advanced. MemFree integriert deren Funktionalitäten und reduziert so die monatlichen Kosten erheblich.
 -   **100x schnellere UI-Seitenerstellung**: Konvertieren Sie Text oder Bilder in Sekundenschnelle in beeindruckenden, produktionsbereiten Code. Visualisieren Sie Ihre Designs während der Erstellung. Veröffentlichen Sie Ihre Seiten nahtlos.
 
@@ -73,7 +73,7 @@ MemFree ist mit leistungsstarken Funktionen ausgestattet, die verschiedene Such-
 -   **🖥️ Echtzeit-UI-Vorschau**: Generierte Benutzeroberfläche sofort rendern und in der Vorschau anzeigen
 -   **🔍 KI-gestützte Inhaltssuche**: Bereichern Sie Ihre Benutzeroberfläche mit relevanten Inhalten mithilfe unserer erweiterten KI-Suchfunktion
 -   **🖼 Bildgesteuerte UI-Generierung**: Erstellen Sie UI-Komponenten und Seiten, die Ihren Referenzbildern genau entsprechen
--   **⚛️ React + TailWind + Shadcn UI-Integration**: Nutzen Sie KI-generierten Code mit dem beliebtesten Front-End-Stack: React, TailWind und Shadcn UI
+-   **⚛️ React + TailWind + Shadcn UI Integration**: Nutzen Sie KI-generierten Code mit dem beliebtesten Front-End-Stack: React, TailWind und Shadcn UI
 -   **🚀 One-Click-UI-Veröffentlichung**: Veröffentlichen und teilen Sie Ihre Benutzeroberfläche sofort mit einem einzigen Klick im Web
 -   **📱 Responsiver Code und Vorschau**: Sehen Sie sich Ihre Benutzeroberfläche in Echtzeit auf verschiedenen Geräten an und sorgen Sie so für eine perfekte Anpassung an alle Bildschirmgrößen
 -   **🌓 Dark-Mode-Code und Vorschau**: Generieren Sie mühelos KI-gestützten UI-Code mit integrierter Unterstützung für den Dunkelmodus, sodass Sie sofort eine Vorschau sowohl des Hell- als auch des Dunkelmodus anzeigen können
